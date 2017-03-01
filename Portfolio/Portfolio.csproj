@@ -211,17 +211,36 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\blank.gif" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\fancybox_buttons.png" />
+    <Content Include="Content\fancybox_loading.gif" />
+    <Content Include="Content\fancybox_overlay.png" />
+    <Content Include="Content\fancybox_sprite.png" />
     <Content Include="Content\Media\audi.jpg" />
+    <Content Include="Content\Media\audi_small.jpg" />
     <Content Include="Content\Media\bottle.mp4" />
+    <Content Include="Content\Media\bottles.jpg" />
+    <Content Include="Content\Media\bottles_small.jpg" />
+    <Content Include="Content\Media\box.jpg" />
+    <Content Include="Content\Media\box_small.jpg" />
     <Content Include="Content\Media\buildings.jpg" />
+    <Content Include="Content\Media\buildings_small.jpg" />
     <Content Include="Content\Media\eke_the_movie_1.mp4" />
+    <Content Include="Content\Media\glass.jpg" />
+    <Content Include="Content\Media\glass_small.jpg" />
     <Content Include="Content\Media\laskin.jpg" />
+    <Content Include="Content\Media\laskin_small.jpg" />
+    <Content Include="Content\Media\moccamaster.jpg" />
+    <Content Include="Content\Media\moccamaster_small.jpg" />
     <Content Include="Content\Media\pasi.mp4" />
     <Content Include="Content\Media\sofa.jpg" />
+    <Content Include="Content\Media\sofa_small.jpg" />
     <Content Include="Content\Media\task3.jpg" />
+    <Content Include="Content\Media\task3_small.jpg" />
     <Content Include="Content\Media\traffic_cones.jpg" />
+    <Content Include="Content\Media\traffic_cones_small.jpg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
